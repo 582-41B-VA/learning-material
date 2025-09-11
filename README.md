@@ -11,3 +11,9 @@
 
 1. Introduction
    - [Tutorial, part 1](https://docs.djangoproject.com/en/5.2/intro/tutorial01/)
+
+2. Models
+   - [Tutorial, part 2](https://docs.djangoproject.com/en/5.2/intro/tutorial02/)
+   - [Migrations](https://docs.djangoproject.com/en/5.2/topics/migrations/)
+   - [Models](https://docs.djangoproject.com/en/5.2/topics/db/models/)
+   - [Making queries](https://docs.djangoproject.com/en/5.2/topics/db/queries/)
