@@ -17,3 +17,6 @@
    - [Migrations](https://docs.djangoproject.com/en/5.2/topics/migrations/)
    - [Models](https://docs.djangoproject.com/en/5.2/topics/db/models/)
    - [Making queries](https://docs.djangoproject.com/en/5.2/topics/db/queries/)
+
+3. Views
+   - [Tutorial, part 3](https://docs.djangoproject.com/en/5.2/intro/tutorial03/)
