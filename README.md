@@ -29,3 +29,12 @@
 
 3. Views
    - [Tutorial, part 3](https://docs.djangoproject.com/en/5.2/intro/tutorial03/)
+   - [Templates](https://docs.djangoproject.com/en/5.2/topics/templates/)
+
+4. Lab
+
+5. Simple forms
+   - [Tutorial, part 4](https://docs.djangoproject.com/en/5.2/intro/tutorial04/)
+   - [File Uploads](https://docs.djangoproject.com/en/5.2/topics/http/file-uploads/)
+   - [Managing files](https://docs.djangoproject.com/en/5.2/topics/files/)
+   - [Serving uploaded files during development](https://docs.djangoproject.com/en/5.2/howto/static-files/#serving-uploaded-files-in-development)
