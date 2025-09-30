@@ -38,3 +38,9 @@
    - [File Uploads](https://docs.djangoproject.com/en/5.2/topics/http/file-uploads/)
    - [Managing files](https://docs.djangoproject.com/en/5.2/topics/files/)
    - [Serving uploaded files during development](https://docs.djangoproject.com/en/5.2/howto/static-files/#serving-uploaded-files-in-development)
+
+6. Testing
+   - [Tutorial, part 4](https://docs.djangoproject.com/en/5.2/intro/tutorial05/)
+
+7. Static files
+   - [Tutorial, part 5](https://docs.djangoproject.com/en/5.2/intro/tutorial06/)
