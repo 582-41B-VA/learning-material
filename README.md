@@ -44,3 +44,11 @@
 
 7. Static files
    - [Tutorial, part 5](https://docs.djangoproject.com/en/5.2/intro/tutorial06/)
+
+8. Lab
+
+9. Class-based forms
+   - [Working with forms](https://docs.djangoproject.com/en/5.2/topics/forms/)
+   - [The Forms API](https://docs.djangoproject.com/en/5.2/ref/forms/api/)
+   - [Form fields](https://docs.djangoproject.com/en/5.2/ref/forms/fields/)
+   - [Widgets](https://docs.djangoproject.com/en/5.2/ref/forms/widgets/#django.forms.TextInput)
