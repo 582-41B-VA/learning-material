@@ -52,3 +52,11 @@
    - [The Forms API](https://docs.djangoproject.com/en/5.2/ref/forms/api/)
    - [Form fields](https://docs.djangoproject.com/en/5.2/ref/forms/fields/)
    - [Widgets](https://docs.djangoproject.com/en/5.2/ref/forms/widgets/#django.forms.TextInput)
+
+10. Class-based forms (cont.)
+    - [Creating forms form models](https://docs.djangoproject.com/en/5.2/topics/forms/modelforms/)
+
+11. Custom validation
+
+- [Form and field validation](https://docs.djangoproject.com/en/5.2/ref/forms/validation/)
+- [Validators](https://docs.djangoproject.com/en/5.2/ref/validators/)
