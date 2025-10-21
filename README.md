@@ -60,3 +60,10 @@
 
 - [Form and field validation](https://docs.djangoproject.com/en/5.2/ref/forms/validation/)
 - [Validators](https://docs.djangoproject.com/en/5.2/ref/validators/)
+
+12. Lab
+
+13. Sessions
+
+- [How to use sessions](https://docs.djangoproject.com/en/5.2/topics/http/sessions/)
+- [The message framework](https://docs.djangoproject.com/en/5.2/ref/contrib/messages/)
