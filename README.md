@@ -67,3 +67,9 @@
 
 - [How to use sessions](https://docs.djangoproject.com/en/5.2/topics/http/sessions/)
 - [The message framework](https://docs.djangoproject.com/en/5.2/ref/contrib/messages/)
+
+14. Context processors
+
+- [Template Rendering with Context Processors](https://fly.io/django-beats/dry-template-rendering-with-context-processors/)
+- [Using RequestContext](https://docs.djangoproject.com/en/5.2/ref/templates/api/#using-requestcontext)
+- [Python yield](https://www.codecademy.com/resources/docs/python/keywords/yield)
