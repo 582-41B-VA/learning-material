@@ -73,3 +73,8 @@
 - [Template Rendering with Context Processors](https://fly.io/django-beats/dry-template-rendering-with-context-processors/)
 - [Using RequestContext](https://docs.djangoproject.com/en/5.2/ref/templates/api/#using-requestcontext)
 - [Python yield](https://www.codecademy.com/resources/docs/python/keywords/yield)
+
+15. Payment processing
+
+- [Build a Stripe-hosted checkout](https://docs.stripe.com/checkout/quickstart?lang=python)
+- [Fullfill orders](https://docs.stripe.com/checkout/fulfillment)
