@@ -77,4 +77,5 @@
 15. Payment processing
 
 - [Build a Stripe-hosted checkout](https://docs.stripe.com/checkout/quickstart?lang=python)
+- [Collect additional information](https://docs.stripe.com/payments/checkout/collect-additional-info)
 - [Fullfill orders](https://docs.stripe.com/checkout/fulfillment)
